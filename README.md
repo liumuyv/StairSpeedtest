@@ -4,7 +4,7 @@ Fork From [tindy2013/stairspeedtest-reborn](https://github.com/tindy2013/stairsp
 
 其他版本：[中文Beta](https://github.com/ntskey/stairspeedtestChinese) [各种云版本 - 废](https://github.com/CommandManager/StairSpeedtest-Cloud)
 
-十分感谢大家的使用！
+十分感谢大家的使用！如果有问题欢迎在issues提出哦！
 # 如何进行个人修改？
 
 1.Fork本仓库
